@@ -11,11 +11,6 @@ import constants.Constants;
  * Helper class containing all the helper methods
  * 
  * @author Prafulla Diwesh
- * 		   Venkatesh
- * 	       Sidra
- * 	       Deeksha
- * 		   Vinayak
- *
  */
 public class Helper {
 
