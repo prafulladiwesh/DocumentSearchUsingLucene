@@ -4,11 +4,6 @@ package constants;
  * Constants which are used throughout the program
  * 
  * @author Prafulla Diwesh
- * 		   Venkatesh
- * 	       Sidra
- * 	       Deeksha
- * 		   Vinayak
- *
  */
 public class Constants {
 
