@@ -9,11 +9,6 @@ import org.apache.lucene.analysis.standard.StandardTokenizer;
  * Class to implement the PorterStemmer algorithm
  * 
  * @author Prafulla Diwesh
- * 		   Venkatesh
- * 	       Sidra
- * 	       Deeksha
- * 		   Vinayak
- *
  */
 public class PorterStemmer extends Analyzer {
 
