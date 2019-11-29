@@ -30,11 +30,6 @@ import helper.Helper;
  * Class to create index of text and html document using Apache Lucene library
  * 
  * @author Prafulla Diwesh
- * 		   Venkatesh
- * 	       Sidra
- * 	       Deeksha
- * 		   Vinayak
- *
  */
 public class LuceneCreateFileIndex {
 
