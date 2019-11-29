@@ -21,11 +21,6 @@ import helper.Helper;
  * Class to search for a query text from the documents
  * 
  * @author Prafulla Diwesh
- * 		   Venkatesh
- * 	       Sidra
- * 	       Deeksha
- * 		   Vinayak
- *
  */
 public class LuceneSearchFileIndex {
 
