@@ -22,14 +22,15 @@ HTML and Text documents present in a folder and it's subfolder. For sample docs 
 
 ## Output:
 The output contains following values:
-  * Most Relevant Documents
-  * Their Rank
-  * Their Path
-  * Last Modification Time
-  * It's Relevance Score
-  * In case of HTML document
-    * HTML Document Title
-    * HTML Document Summary
+  
+    * Most Relevant Documents
+    * Their Rank
+    * Their Path
+    * Last Modification Time
+    * It's Relevance Score
+    * In case of HTML document:
+      * HTML Document Title
+      * HTML Document Summary
 
 ## How to Run the program?
 Using the following command from terminal:
