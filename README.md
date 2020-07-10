@@ -5,6 +5,7 @@ This implementation is part of an academic course project during Information Ret
 To create an simple Information Retrieval system using *Apache Lucene* libraray for indexing, searching, and ranking documents. Some part of *Lucene* implementation code is borrowed for indexing the documents.
 
   Implementation Steps:
+    
     1. Parsing and indexing Text and HTML documents in a given folder and it's subfolders.
     2. Listing and saving all the indexed files.
     3. Performing data preprocessing steps and apply Porter Stemmer.
